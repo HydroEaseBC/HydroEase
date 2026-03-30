@@ -1,1 +1,1 @@
-# -HydroEase
+# HydroEase
